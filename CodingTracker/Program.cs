@@ -5,3 +5,6 @@ Console.WriteLine("Learning Git Fetch!");
 Console.WriteLine("Hello from Master");
 Console.WriteLine("Hello from features");
 Console.WriteLine("Practicing Git Branches!");
+Console.WriteLine("Learning Git Reset!");
+Console.WriteLine("Practicing Git Stash!");
+Console.WriteLine("Cherry-pick practice commit!");
